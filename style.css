@@ -1,0 +1,13 @@
+button {
+    background-color: blue;
+    color: white;
+    padding: 5px;
+    font-size: 2em;
+    border: 2px solid black;
+    
+}
+body {
+    justify-content: center;
+    text-align: center;
+    padding-top: 25%;
+}
